@@ -3,7 +3,7 @@
 ##Exp: 
 
 ```html
-<script type="text/javascript" color="0,0,255" opacity='0.7' zIndex="-2" count="99" src="//xxx.com/canvas-nest.min.js"></script>
+<script type="text/javascript" color="0,0,255" opacity='0.7' zIndex="-2" count="99" src="http://xxx.com/canvas-nest.min.js"></script>
 ```
 
 ## config
